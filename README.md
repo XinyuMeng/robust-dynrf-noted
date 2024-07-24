@@ -1,0 +1,1 @@
+这个仓库是[facebookresearch/robust-dynrf: An algorithm for reconstructing the radiance field of a dynamic scene from a casually-captured video. (github.com)](https://github.com/facebookresearch/robust-dynrf)的注释版，用于自学
